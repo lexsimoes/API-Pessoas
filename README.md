@@ -38,4 +38,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Maven
 - Swagger
 
+## Diferenciais
+> Testes - Feito
+> Clean code - feito
+
 
